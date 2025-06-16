@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-test.md
-=======
-#.gitignore
-node_module/
-
-
 node_modules
->>>>>>> ec7d958 (add node_module to the file)
+hint-report
