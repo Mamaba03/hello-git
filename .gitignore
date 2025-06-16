@@ -1,5 +1,5 @@
-# windows system file
-thum.db
-ehthumb.db
-Desktop.ini
+#.gitignore
+node_module/
 
+
+node_modules
