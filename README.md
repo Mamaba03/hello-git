@@ -1,112 +1,51 @@
-a name=""></a>
-
-<!--
-!!! IMPORTANT !!!
-This README is an example of how you could professionally present your codebase. 
-Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
-
-You should modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-Built with
--Tech stack
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
-
-For more information on the importance of a professional README for your repositories: https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/readme_best_practices.md
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
+ <h3><b>Hello Git README Template</b></h3>
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With]
-  (-clients
-HTML and CSS
--Tools
-git.github and  code editor)
-    - [Tech Stack](#client front end technologies (eg HTML and CSS)
-         Tools- version control and code editor)
-    - [Key Features](#-clean and professional layout with a personal bio and project showcase.
-    -Styled header with "Hello git! using custom CSS)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#In other to run this project you need:
--A web browser (example google chrome or mozilla)
--A code editor (example visual studio code))
+- [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Setup](#clone this repository to your desired folder:
-     git clons https://github.com/mamaba03/hello git.git)
-  - [Install](#No installaton required.simple open idex.html in a web browser)
+  - [Setup](#setup)
+  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
-- [👥 Authors](#Sadiq Abdulbasid
-github @mamaba03 (#https://github.com/mamaba03))
-- [🔭 Future Features](#Incled a dark mode toggle for accessibilty)
-- [🤝 Contributing](#contributions,issues and feature request are welcome!)
-- [⭐️ Show your support](#If tou like this project please give me a star on github!your support motivate me keep improving)
-- [🙏 Acknowledgements](#I would like to thank sahlminkok for he's guidance.)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-git] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+# 📖 Hello-Git<a name="Hello-git is a static website built to display my projects and skills, developed on june 15,2025, as part of my git learning it serves as a professsional online presence highlight my development journey and connect with potential collaborators"></a>
 
-**[Hello-git]** Hello-git is a static website built to display my projects and skills, developed on june 15,2025, as part of my git learning it serves as a professsional online presence highlight my development journey and connect with potential collaborators
+
+**Hello-Git** is a simple HTML and CSS web page that demonstrate the use of external stylesheets for clean styling and follow best practice by using linters like stylint ans wwebhint to ensure code quality and accesibilty
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">HTML and CSS</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+
+
 
 <!-- Features -->
 
@@ -114,61 +53,85 @@ github @mamaba03 (#https://github.com/mamaba03))
 
 > Describe between 1-3 key features of the application.
 
-- **[Clean_and_professional_layout_with_a_project_showcase]**
-- **[Styled_header_with_"Hello-git!"_using_custom_CSS]**
+- **Clean seperation of content and style**
+- **Code Quality Assuarance with Linters**
+- **Responsive and Accessible Design**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name=""></a>
+## 🚀 Live Demo <a name="Coming soon"></a>
 
-> Add a link to your deployed project.
 
-- [Live Demo Link]("https://mamaba03.github.io/hello-git")
 
+- coming soon
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+> This section guide through setting up the project locally by clonning the repo installing dependencies,and running the HTML file,It also includes optionsl steps to check code quality using stylelint and webhint
 
 ### Prerequisites
 
 In order to run this project you need:
-- A web browser (e.g.,Google chrome,mozilla firefox)
-- Code editor (e.g., visual studio code).
+
+```
+A modern web browser(e.g,chrome,firefox,Edge)
+Node.js(v14 or later recommmended)
+npm(comes with node.js)
+git(to clone the repository)-optional if downloading manually
+```
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone https://github.com/mamaab03/Hello-git.git
+  git clone https://github.com/Mamaba03/hello-git.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-No installatio required.simple open index.html in a web browser
+```sh
+  cd my-project
+  npm install
+  npx stylelint "**/*.css
+  npx hint .
+```
 
 ### Usage
 
-To run the project, open index.html in a wen browser.
+To run the project, execute the following command:
+
+```sh
+simply open the index.html in your browser
+```
 
 ### Run tests
 
-No test configured yet
+To run tests, run the following command:
+
+
+```sh
+  To run linting tests and check code quality,use the following command
+  npx stylelint"**/*.css"
+  npx hint .
+```
+
+
+### Deployment
+
+You can deploy this project using:
+
+
+```sh
+You can deploy this project using github pages.
+```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -179,25 +142,27 @@ No test configured yet
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Sadiq Abdulbasid Abdussamad**
 
-- GitHub: [@githubhandle](https://github.com/mamaba03)
-- Twitter: [@twitterhandle](https://twitter.com/sadiqsamadani)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/sadiqsamdani)
+- GitHub: [mamaba03](https://github.com/mamaba03)
+- Twitter: [sadiqsamadani](https://x.com/SadiqSamadani?t=0qVB358xv0FUnqsxLf_AZg&s=09)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Add_a_contact_form_for_user_inquiries]**
-- [ ] **[Implement_a_dark_mode_toggle_for_accesibilty]**
+
+- **Responsive Design**
+- **Dark Mode Support**
+- **Interactive Element**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -211,18 +176,26 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-
-If you like this project, please give it a star on Github! your support motivates me to keep improving.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="Acknowledgement"></a>
-
-I would like to thank sahlminkok for he's guidance
+If you find this project helpful or inspiring,please consider giving it a star on Github
+Your support helps keep the project growing and motivates further development.Thank you!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!--updated at 11:12 AM WAT,june 15,2025 -->
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to express my sincere gratitude to sahlminkok for mentorship,guidance and continious support throuhgout this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
