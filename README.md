@@ -25,16 +25,13 @@
 
 
 
-# 📖 Hello-Git<a name="Hello-git is a static website built to display my projects and skills, developed on june 15,2025, as part of my git learning it serves as a professsional online presence highlight my development journey and connect with potential collaborators"></a>
-
+# 📖 [your_project_name]<a name="Hello-git is a static website built to display my projects and skills, developed on june 15,2025, as part of my git learning it serves as a professsional online presence highlight my development journey and connect with potential collaborators"></a>
 
 **Hello-Git** is a simple HTML and CSS web page that demonstrate the use of external stylesheets for clean styling and follow best practice by using linters like stylint ans wwebhint to ensure code quality and accesibilty
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-
 
 <details>
   <summary>Client</summary>
@@ -43,15 +40,7 @@
   </ul>
 </details>
 
-
-
-
-
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Clean seperation of content and style**
 - **Code Quality Assuarance with Linters**
@@ -59,19 +48,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🚀 Live Demo <a name="Coming soon"></a>
-
-
 
 - coming soon
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> This section guide through setting up the project locally by clonning the repo installing dependencies,and running the HTML file,It also includes optionsl steps to check code quality using stylelint and webhint
 
 ### Prerequisites
 
@@ -130,17 +112,14 @@ You can deploy this project using:
 
 
 ```sh
-You can deploy this project using github pages.
+Github pages.
 ```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Sadiq Abdulbasid Abdussamad**
 
@@ -149,8 +128,6 @@ You can deploy this project using github pages.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -171,8 +148,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
