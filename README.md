@@ -25,7 +25,7 @@
 
 
 
-# 📖 [your_project_name]<a name="Hello-git is a static website built to display my projects and skills, developed on june 15,2025, as part of my git learning it serves as a professsional online presence highlight my development journey and connect with potential collaborators"></a>
+# 📖 HELLO-GIT<a name="Hello-git is a static website built to display my projects and skills, developed on june 15,2025, as part of my git learning it serves as a professsional online presence highlight my development journey and connect with potential collaborators"></a>
 
 **Hello-Git** is a simple HTML and CSS web page that demonstrate the use of external stylesheets for clean styling and follow best practice by using linters like stylint ans wwebhint to ensure code quality and accesibilty
 
@@ -36,7 +36,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML and CSS</a></li>
+    <li>HTML and CSS</li>
   </ul>
 </details>
 
